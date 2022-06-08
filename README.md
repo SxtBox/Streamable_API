@@ -1,5 +1,8 @@
-# Streamable_API
-Streamable API
+# Streamable API
+Hosted API
+
+     https://paidcodes.albdroid.al/Streamable/
+
 
 AJAX API
 ![Logo](https://raw.githubusercontent.com/SxtBox/Streamable_API/Albdroid/Screenshot/AJAX.png?raw=true)
